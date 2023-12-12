@@ -17,6 +17,7 @@ public class GİT {
         System.out.println("bugun yeni kodlar");
         System.out.println("yaz");
         //B6
+        //buradan projeye push
 
     }
 }
