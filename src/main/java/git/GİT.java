@@ -18,6 +18,9 @@ public class GİT {
         System.out.println("yaz");
         //B6
         //buradan projeye push
+        System.out.println("Bahar branchine kod");
+        //B7
+
 
     }
 }
