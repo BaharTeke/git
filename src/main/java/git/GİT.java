@@ -20,7 +20,8 @@ public class GİT {
         //buradan projeye push
         System.out.println("Bahar branchine kod");
         //B7
-
+        System.out.println("akşam");
+        System.out.println("bu alanı restore edebilecek misin");
 
     }
 }
