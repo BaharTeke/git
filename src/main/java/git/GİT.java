@@ -13,6 +13,6 @@ public class GİT {
         System.out.println("stash yapalım");
         System.out.println("yine değişiklik");
         //B5
-
+//bir değişiklik yapayım
     }
 }
