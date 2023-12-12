@@ -13,5 +13,6 @@ public class GİT {
         System.out.println("şimmmddi bahar branchine geçtik");
         System.out.println("bakalım bu branch mastera eklenecek mi");
         //B7
+        System.out.println("hadi beni güldür biraz");
     }
 }
