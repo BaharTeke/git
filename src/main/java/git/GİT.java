@@ -25,7 +25,6 @@ public class GİT {
         //B8
         System.out.println("8.ci satır");
         //B9
-
-
+        //bahar branch
     }
 }
