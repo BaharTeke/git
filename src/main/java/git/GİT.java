@@ -11,5 +11,8 @@ public class GİT {
         System.out.println("master branchı değiştik");
         //B1
         System.out.println("stash yapalım");
+        System.out.println("yine değişiklik");
+        //B5
+
     }
 }
