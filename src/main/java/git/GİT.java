@@ -10,10 +10,29 @@ public class GİT {
         //versiyon3
         System.out.println("master branchı değiştik");
         //B1
+
         System.out.println("şimmmddi bahar branchine geçtik");
         System.out.println("bakalım bu branch mastera eklenecek mi");
         //B7
         System.out.println("hadi beni güldür biraz");
         //bahar brancıne gönder
+
+        System.out.println("stash yapalım");
+        System.out.println("yine değişiklik");
+        //B5
+//bir değişiklik yapayım
+        System.out.println("bugun yeni kodlar");
+        System.out.println("yaz");
+        //B6
+        //buradan projeye push
+        System.out.println("Bahar branchine kod");
+        //B7
+        System.out.println("akşam");
+        System.out.println("bu alanı restore edebilecek misin");
+        //B8
+        System.out.println("8.ci satır");
+        //B9
+        //bahar branch
+
     }
 }
