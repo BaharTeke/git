@@ -10,6 +10,6 @@ public class GİT {
         //versiyon3
         System.out.println("master branchı değiştik");
         //B1
-
+        System.out.println("stash yapalım");
     }
 }
