@@ -8,7 +8,8 @@ public class GİT {
         //versiyon 2
         System.out.println("çiçek");
         //versiyon3
-
+        System.out.println("master branchı değiştik");
+        //B1
 
     }
 }
