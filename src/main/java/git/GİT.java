@@ -22,6 +22,10 @@ public class GİT {
         //B7
         System.out.println("akşam");
         System.out.println("bu alanı restore edebilecek misin");
+        //B8
+        System.out.println("8.ci satır");
+        //B9
+
 
     }
 }
