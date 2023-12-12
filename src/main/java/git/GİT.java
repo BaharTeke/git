@@ -14,5 +14,9 @@ public class GİT {
         System.out.println("yine değişiklik");
         //B5
 //bir değişiklik yapayım
+        System.out.println("bugun yeni kodlar");
+        System.out.println("yaz");
+        //B6
+
     }
 }
